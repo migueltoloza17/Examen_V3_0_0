@@ -17,7 +17,7 @@ namespace Examen_V_3.Servicios
         public decimal ObtenerCostoEnvio(int _iDistancia)
         {
             decimal dCostoEnvio = 0M;
-            dCostoEnvio = iCostoPorKm * _iDistancia * ((1 + iMargenUtilidad) / 100);
+            dCostoEnvio = (iCostoPorKm * _iDistancia) * ((1 + Convert.ToDecimal(iMargenUtilidad)) / 100);
             return dCostoEnvio;
         }
 
