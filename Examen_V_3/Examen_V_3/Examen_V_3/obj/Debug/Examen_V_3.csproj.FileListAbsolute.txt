@@ -1,0 +1,7 @@
+D:\Examen\Examen_V_3\Examen_V_3\Examen_V_3\bin\Debug\Examen_V_3.exe.config
+D:\Examen\Examen_V_3\Examen_V_3\Examen_V_3\bin\Debug\Examen_V_3.exe
+D:\Examen\Examen_V_3\Examen_V_3\Examen_V_3\bin\Debug\Examen_V_3.pdb
+D:\Examen\Examen_V_3\Examen_V_3\Examen_V_3\obj\Debug\Examen_V_3.csprojAssemblyReference.cache
+D:\Examen\Examen_V_3\Examen_V_3\Examen_V_3\obj\Debug\Examen_V_3.csproj.CoreCompileInputs.cache
+D:\Examen\Examen_V_3\Examen_V_3\Examen_V_3\obj\Debug\Examen_V_3.exe
+D:\Examen\Examen_V_3\Examen_V_3\Examen_V_3\obj\Debug\Examen_V_3.pdb
